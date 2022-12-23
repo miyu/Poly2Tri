@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
    <PropertyGroup>
-      <TargetFramework>net6.0</TargetFramework>
+      <TargetFramework>net7.0</TargetFramework>
       <RootNamespace>Poly2Tri</RootNamespace>
       <Description>A 2D constrained Delaunay triangulation library</Description>
       <PackageProjectUrl>https://github.com/miyu/Poly2Tri</PackageProjectUrl>
